@@ -6,3 +6,4 @@ a.out
 *.o
 testprog
 debug*
+*.dSYM
