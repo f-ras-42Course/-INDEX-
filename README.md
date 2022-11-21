@@ -13,3 +13,8 @@ Full list of projects to be found here.
 |			Name				| Description	|
 |:---------------:|:-----------:|
 [Libft](https://github.com/f-ras-42Cursus/libft) | "very first own library" |
+
+## RANK 1
+|			Name				| Description	|
+|:---------------:|:-----------:|
+[ft_printf](https://github.com/f-ras-42Cursus/ft_prinft) | Because ft_putnbr() and ft_putstr() aren’t enough |
