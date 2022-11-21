@@ -10,11 +10,11 @@ Full list of projects to be found here.
 [LibftTesty](https://github.com/f-ras-42Cursus/_EXTRAS/tree/main/LibftTesty) | Extensive tester I created for Rank 0: Libft |
 
 ## RANK 0
-|			Name				| Description	|
+|			Name				| Subject	|
 |:---------------:|:-----------:|
 [Libft](https://github.com/f-ras-42Cursus/libft) | "very first own library" |
 
 ## RANK 1
-|			Name				| Description	|
+|			Name				| Subject	|
 |:---------------:|:-----------:|
 [ft_printf](https://github.com/f-ras-42Cursus/ft_prinft) | Because ft_putnbr() and ft_putstr() aren’t enough. |
