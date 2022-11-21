@@ -7,7 +7,7 @@ Full list of projects to be found here.
 ## _EXTRAS
 |			Name				| Description	|
 |:---------------:|:-----------:|
-[LibftTesty](https://github.com/f-ras-42Cursus/_EXTRAS/tree/main/LibftTesty) | Tester for Rank 0 // libft |
+[LibftTesty](https://github.com/f-ras-42Cursus/_EXTRAS/tree/main/LibftTesty) | Tester for Rank 0: Libft |
 
 ## RANK 0
 |			Name				| Description	|
