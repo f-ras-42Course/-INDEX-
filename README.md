@@ -5,6 +5,7 @@ Index repository for the projects I have done for 42 School in Amsterdam (Codam)
 Full list of projects to be found here.
 
 ## _EXTRAS
+### Not mandatory.
 [LibftTesty](https://github.com/f-ras-42Cursus/_EXTRAS/tree/main/LibftTesty) &nbsp; | &nbsp; Extensive tester that I created for Rank 0: Libft
 
 ## RANK 0
