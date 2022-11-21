@@ -17,4 +17,4 @@ Full list of projects to be found here.
 ## RANK 1
 |			Name				| Description	|
 |:---------------:|:-----------:|
-[ft_printf](https://github.com/f-ras-42Cursus/ft_prinft) | Because ft_putnbr() and ft_putstr() aren’t enough |
+[ft_printf](https://github.com/f-ras-42Cursus/ft_prinft) | Because ft_putnbr() and ft_putstr() aren’t enough. |
