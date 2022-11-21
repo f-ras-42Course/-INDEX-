@@ -15,5 +15,5 @@ Full list of projects to be found here.
 [ft_printf](https://github.com/f-ras-42Cursus/ft_prinft) | "Because ft_putnbr() and ft_putstr() aren’t enough." |
 
 ## _EXTRAS
-##### Voluntary projects.
+##### Voluntary projects:
 [LibftTesty](https://github.com/f-ras-42Cursus/_EXTRAS/tree/main/LibftTesty) &nbsp; | &nbsp; Extensive tester that I created for Rank 0: Libft
