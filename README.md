@@ -1,4 +1,4 @@
-# 42Cursus - Index
+# 42Cursus - Index repository
 
 Index repository for the projects I have done for 42 School in Amsterdam (Codam).
 
