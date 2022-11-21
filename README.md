@@ -10,9 +10,9 @@ Full list of projects to be found here.
 ## RANK 0
 |			Name				| Description	|
 |:---------------:|:-----------:|
-[Libft](https://github.com/f-ras-42Cursus/libft) | Your very first own library. |
+[Libft](https://github.com/f-ras-42Cursus/libft) | "Your very first own library." |
 
 ## RANK 1
 |			Name				| Description	|
 |:---------------:|:-----------:|
-[ft_printf](https://github.com/f-ras-42Cursus/ft_prinft) | Because ft_putnbr() and ft_putstr() aren’t enough. |
+[ft_printf](https://github.com/f-ras-42Cursus/ft_prinft) | "Because ft_putnbr() and ft_putstr() aren’t enough." |
