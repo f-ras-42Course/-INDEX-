@@ -12,7 +12,7 @@ Full list of projects to be found here.
 ## RANK 0
 |			Name				| Subject	|
 |:---------------:|:-----------:|
-[Libft](https://github.com/f-ras-42Cursus/libft) | "very first own library" |
+[Libft](https://github.com/f-ras-42Cursus/libft) | Your very first own library. |
 
 ## RANK 1
 |			Name				| Subject	|
