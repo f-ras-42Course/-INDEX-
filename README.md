@@ -14,7 +14,7 @@ Full list of projects to be found here.
 |:---------------:|:-----------:|
 [ft_printf](https://github.com/f-ras-42Cursus/ft_printf) | "Because ft_putnbr() and ft_putstr() aren’t enough." - Recreate the functionality of printf. |
 [get_next_line](https://github.com/f-ras-42Cursus/get_next_line) | "Reading a line from a fd is way too tedious." - Programming a function that returns a line read from a file descriptor. |
-[Born2beroot](https://github.com/f-ras-42Cursus/born2beroot) | "This project aims to introduce you to the wonderful world of virtualization. " - A System Administration related exercise. Setup Virtual Machine with specific parameters/settings and create a monitoring shell script to cronjob. |
+[Born2beroot](https://github.com/f-ras-42Cursus/born2beroot) | "This project aims to introduce you to the wonderful world of virtualization. " - A System Administration related exercise. Setup a Virtual Machine with specific parameters and settings. Create a monitoring shell script and cronjob it. |
 
 ## RANK 2
 |			Name				| Description	|
