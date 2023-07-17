@@ -20,6 +20,8 @@ Full list of projects to be found here.
 |			Name				| Description	|
 |:---------------:|:-----------:|
 [push_swap](https://github.com/f-ras-42Course/push_swap) | "Because Swap_push isn’t as natural." - This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting. |
+[minitalk](https://github.com/f-ras-42Course/minitalk) | description comes later |
+[fract-ol](https://github.com/f-ras-42Course/fract-ol) | description comes later |
 
 
 ## _EXTRAS
