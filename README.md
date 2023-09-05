@@ -23,6 +23,10 @@ Full list of projects to be found here.
 [minitalk](https://github.com/f-ras-42Course/minitalk) | description comes later |
 [fract-ol](https://github.com/f-ras-42Course/fract-ol) | description comes later |
 
+## RANK 3
+|			Name				| Description	|
+|:---------------:|:-----------:|
+[Minishell](https://github.com/f-ras-42Course/minitalk) | description comes later |
 
 ## _EXTRAS
 ##### Optional programs and tools, that I created to assist my assignments or to expand upon them.
