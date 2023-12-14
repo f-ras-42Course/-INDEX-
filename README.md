@@ -27,6 +27,9 @@ Full list of projects to be found here.
 |			Name				| Description	|
 |:---------------:|:-----------:|
 [Minishell](https://github.com/f-ras-42Course/minishell) | description comes later |
+|			Name				| Description	|
+|:---------------:|:-----------:|
+[philosophers](https://github.com/f-ras-42Course/philosophers) | description comes later |
 
 ## _EXTRAS
 ##### Optional programs and tools, that I created to assist my assignments or to expand upon them.
