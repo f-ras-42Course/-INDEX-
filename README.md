@@ -29,6 +29,17 @@ Full list of projects to be found here.
 [Minishell](https://github.com/f-ras-42Course/minishell) | description comes later |
 [philosophers](https://github.com/f-ras-42Course/philosophers) | description comes later |
 
+## RANK 4
+|			Name				| Description	|
+|:---------------:|:-----------:|
+[NetPractice](https://set_url) | description comes later |
+[CPP Module 00](https://set_url) | description comes later |
+[CPP Module 01](https://set_url) | description comes later |
+[CPP Module 02](https://set_url) | description comes later |
+[CPP Module 03](https://set_url) | description comes later |
+[CPP Module 04](https://set_url) | description comes later |
+[cub3d](https://set_url) | description comes later |
+
 ## _EXTRAS
 ##### Optional programs and tools, that I created to assist my assignments or to expand upon them.
 [LibftTesty](https://github.com/f-ras-42Course/_EXTRAS/tree/main/LibftTesty) &nbsp; | &nbsp; Extensive tester for Rank 0: Libft
