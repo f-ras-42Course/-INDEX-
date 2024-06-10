@@ -33,12 +33,12 @@ Full list of projects to be found here.
 |			Name				| Description	|
 |:---------------:|:-----------:|
 [NetPractice](https://set_url) | description comes later |
-[CPP Module 00](https://set_url) | description comes later |
-[CPP Module 01](https://set_url) | description comes later |
-[CPP Module 02](https://set_url) | description comes later |
-[CPP Module 03](https://set_url) | description comes later |
-[CPP Module 04](https://set_url) | description comes later |
-[cub3d](https://set_url) | description comes later |
+[CPP Module 00](https://github.com/f-ras-42Course/cpp_module_00) | description comes later |
+[CPP Module 01](https://github.com/f-ras-42Course/cpp_module_01) | description comes later |
+[CPP Module 02](https://github.com/f-ras-42Course/cpp_module_02) | description comes later |
+[CPP Module 03](https://github.com/f-ras-42Course/cpp_module_03) | description comes later |
+[CPP Module 04](https://github.com/f-ras-42Course/cpp_module_04) | description comes later |
+[cub3d](https://github.com/f-ras-42Course/cub3d) | description comes later |
 
 ## _EXTRAS
 ##### Optional programs and tools, that I created to assist my assignments or to expand upon them.
