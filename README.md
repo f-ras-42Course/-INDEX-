@@ -7,7 +7,7 @@ Full list of projects to be found here.
 ## RANK 0
 |			Name				| Description	|
 |:---------------:|:-----------:|
-[Libft](https://github.com/f-ras-42Course/libft) | "Your very first own library" - The aim of this project is to code a C library, rewriting usual functions that you will then be allowed to use in your other projects. |
+[Libft](https://github.com/f-ras-42Course/libft) | My implementation of the Libft project! This library is a collection of essential C functions, aimed to mimic the standard C library (libc) and provide useful utilities for future projects at 42. |
 
 ## RANK 1
 |			Name				| Description	|
