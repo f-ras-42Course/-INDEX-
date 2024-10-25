@@ -47,7 +47,7 @@ Full list of projects to be found here.
 ## RANK 6
 |			Name				| Description	|
 |:---------------:|:-----------:|
-[ft_transcendence](https://github.com/f-ras-42Course/ft_transcendence)
+<!--- [ft_transcendence](https://github.com/f-ras-42Course/ft_transcendence) --->
 
 ## _EXTRAS
 ##### Optional programs and tools, that I created to assist my assignments or to expand upon them.
