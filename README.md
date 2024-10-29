@@ -43,6 +43,11 @@ Full list of projects to be found here.
 ## RANK 5
 |			Name				| Description	|
 |:---------------:|:-----------:|
+[CPP Module 05](https://github.com/f-ras-42Course/cpp_module_05) | description comes later |
+[CPP Module 06](https://github.com/f-ras-42Course/cpp_module_06) | description comes later |
+[CPP Module 07](https://github.com/f-ras-42Course/cpp_module_07) | description comes later |
+[CPP Module 08](https://github.com/f-ras-42Course/cpp_module_08) | description comes later |
+[CPP Module 09](https://github.com/f-ras-42Course/cpp_module_09) | description comes later |
 
 ## RANK 6
 |			Name				| Description	|
