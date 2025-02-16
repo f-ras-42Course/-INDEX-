@@ -1,6 +1,6 @@
 # 42Course - Index repository
 
-Index repository for the projects I have done for 42 School in Amsterdam (Codam).
+Index repository for the projects I have done for 42 Amsterdam (Codam).
 
 Full list of projects to be found here.
 
