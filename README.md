@@ -43,19 +43,18 @@ Full list of projects to be found here.
 ## RANK 5
 |			Name				| Description	|
 |:---------------:|:-----------:|
-[webserv](https://github.com/f-ras-42Course/webserv) | **webserv** is a project that involves building a simple HTTP web server from scratch in C++. It handles client requests, parses configurations, manages sockets, and supports features like CGI execution and concurrent connections, reinforcing networking and web server fundamentals. Mimicking the behavior of web servers like Nginx or Apache. |
-<!--- [Inception](https://github.com/f-ras-42Course/inception) | **Inception** is a system administration and Docker project that focuses on setting up a containerized infrastructure using Docker Compose. It involves deploying multiple services (Nginx, WordPress, MariaDB, etc.) in isolated containers, emphasizing networking, security, and service orchestration. | 
+[Inception](https://github.com/f-ras-42Course/inception) | **Inception** is a system administration and Docker project that focuses on setting up a containerized infrastructure using Docker Compose. It involves deploying multiple services (Nginx, WordPress, MariaDB, etc.) in isolated containers, emphasizing networking, security, and service orchestration. | 
 [CPP Module 05](https://github.com/f-ras-42Course/cpp_module_05) | **CPP Module 05** introduces exception handling in C++, covering `try`, `catch`, and `throw` mechanisms. It emphasizes creating custom exception classes and handling errors gracefully to ensure robust and maintainable code. |
 [CPP Module 06](https://github.com/f-ras-42Course/cpp_module_06) | **CPP Module 06** focuses on C++ casts, including `static_cast`, `dynamic_cast`, `const_cast`, and `reinterpret_cast`. It highlights type conversion, runtime type identification (RTTI), and safe casting practices to enhance code reliability. |
 [CPP Module 07](https://github.com/f-ras-42Course/cpp_module_07) | **CPP Module 07** introduces C++ templates, covering function templates and class templates for generic programming. It emphasizes reusability, type flexibility, and the importance of template specialization and instantiation. |
 [CPP Module 08](https://github.com/f-ras-42Course/cpp_module_08) | **CPP Module 08** explores the Standard Template Library (STL), focusing on containers (vector, list, stack, etc.), iterators, and algorithms. It emphasizes efficient data manipulation and the importance of understanding STL’s powerful features in C++. | 
 [CPP Module 09](https://github.com/f-ras-42Course/cpp_module_09) | **CPP Module 09** focuses on advanced container manipulation and algorithmic problem-solving using the Standard Template Library (STL). It introduces topics like sequence containers, associative containers, and algorithmic efficiency, reinforcing clean and optimized C++ coding practices. |
-[webserv](https://github.com/f-ras-42Course/webserv) | **webserv** is a project that involves building a simple HTTP web server from scratch in C++. It handles client requests, parses configurations, manages sockets, and supports features like CGI execution and concurrent connections, reinforcing networking and web server fundamentals. Mimicking the behavior of web servers like Nginx or Apache. | --->
+[webserv](https://github.com/f-ras-42Course/webserv) | **webserv** is a project that involves building a simple HTTP web server from scratch in C++. It handles client requests, parses configurations, manages sockets, and supports features like CGI execution and concurrent connections, reinforcing networking and web server fundamentals. Mimicking the behavior of web servers like Nginx or Apache. |
 
-<!--- ## RANK 6
+## RANK 6
 |			Name				| Description	|
 |:---------------:|:-----------:|
- [ft_transcendence](https://github.com/f-ras-42Course/ft_transcendence) | **ft_transcendence** is a full-stack web project that combines backend, frontend, and database management to create a real-time multiplayer Pong game. It integrates authentication (OAuth2), WebSockets for live interactions, and containerization, reinforcing knowledge of modern web development and deployment. | --->
+[ft_transcendence](https://github.com/f-ras-42Course/ft_transcendence) | **ft_transcendence** is a full-stack web project that combines backend, frontend, and database management to create a real-time multiplayer Pong game. It integrates authentication (OAuth2), WebSockets for live interactions, and containerization, reinforcing knowledge of modern web development and deployment. |
 
 ## _EXTRAS
 ##### Optional programs and tools, that I created to assist my assignments or to expand upon them.
